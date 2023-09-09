@@ -82,15 +82,7 @@ Give an example
 Add notes about how to use the system.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
-
-
-
-- [HTML]
-- [CSS]
-- [JavaScript]
-- [Swipper Library]
-
+https://main--snazzy-speculoos-b28d70.netlify.app/
 
 
 
