@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://paulselvi1982.github.io/Grocery-App/" rel="noopener">
- <img width=500px height=200px src="Grocery.png" alt="Project logo">
+ <img width=500px height=200px src="Grocery.png" alt="Project Live Demo">
+    https://paulselvi1982.github.io/Grocery-App/
   <p>click the image to see the Grocery UI</p></a>
 
 
